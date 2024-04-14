@@ -1,3 +1,8 @@
 1. git init
 
 ctrl+shift+p   = git -- clone
+
+
+git pull //pulls data from online repo    || git pull origin master/branchname
+git fetch
+git merge
